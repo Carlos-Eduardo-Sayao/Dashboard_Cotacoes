@@ -60,7 +60,7 @@ Exibe:
 
 ---
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 ```bash
 Dashboard_Cotacoes/
