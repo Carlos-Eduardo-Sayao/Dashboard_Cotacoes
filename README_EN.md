@@ -1,4 +1,4 @@
-🇧🇷 **Versão em português:** [Clique aqui]()
+🇧🇷 **Versão em português:** [Clique aqui](https://github.com/Carlos-Eduardo-Sayao/Dashboard_Cotacoes/blob/main/README.md)
 
 # Exchange Rate Dashboard
 
