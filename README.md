@@ -203,7 +203,7 @@ pip install streamlit pandas requests
 
 **Carlos Eduardo Sayão Santana Junior**
 
-GitHub: 
+GitHub: https://github.com/Carlos-Eduardo-Sayao
 
 
 
