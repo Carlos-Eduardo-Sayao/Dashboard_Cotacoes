@@ -77,9 +77,8 @@ Dados obtidos pela API pública:
 
 **AwesomeAPI**
 
-Documentação:
+Documentação: https://docs.awesomeapi.com.br/api-de-moedas
 
-:contentReference[oaicite:0]{index=0}
 
 Endpoints utilizados:
 
@@ -204,9 +203,9 @@ pip install streamlit pandas requests
 
 **Carlos Eduardo Sayão Santana Junior**
 
-GitHub:
+GitHub: 
 
-:contentReference[oaicite:1]{index=1}
+
 
 ---
 
