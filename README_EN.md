@@ -1,3 +1,5 @@
+🇧🇷 **Versão em português:** [Clique aqui]()
+
 # Exchange Rate Dashboard
 
 Interactive web application developed with **Python + Streamlit** for **real-time exchange rate consultation**, currency conversion, and simplified historical data visualization.
@@ -58,7 +60,7 @@ Displays:
 
 ---
 
-## 📂 Project structure
+## Project structure
 
 ```bash
 Dashboard_Cotacoes/
