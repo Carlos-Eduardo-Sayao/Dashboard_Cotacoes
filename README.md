@@ -1,3 +1,5 @@
+🇺🇸 **English version:** [Click here](https://github.com/Carlos-Eduardo-Sayao/Dashboard_Cotacoes/blob/main/README_EN.md)
+
 # Dashboard de Cotações Cambiais
 
 Aplicação web interativa desenvolvida em **Python + Streamlit** para consulta de **cotações cambiais em tempo real**, conversão entre moedas e visualização de histórico simplificado.
