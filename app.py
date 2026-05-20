@@ -73,6 +73,6 @@ with aba3:
         df = pd.DataFrame(historico)
         df["create_date"] = df["create_date"].fillna(df["create_date"].iloc[0])
         df_display = df[["create_date","bid","pctChange"]]
-        df_display.colums = ["Data","Cotação(Bid)","Variação (%)"]
+        df_display.columns = ["Data","Cotação(Bid)","Variação (%)"]
 
         st.dataframe(df_display,use_container_width=True)
